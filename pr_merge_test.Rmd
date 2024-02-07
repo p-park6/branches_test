@@ -4,7 +4,7 @@ library(tidyverse)
 ```
 
 ```{r}
-head(starwars)
+head(starwars)#ok i dont like it 
 #i dont like this we should have used diamonds
 ```
 
