@@ -4,6 +4,6 @@ library(tidyverse)
 ```
 
 ```{r}
-head(starwars)
+tail(starwars)
 ```
 
