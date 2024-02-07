@@ -5,5 +5,10 @@ library(tidyverse)
 
 ```{r}
 head(starwars)
+#i dont like this we should have used diamonds
+```
+
+```{r}
+
 ```
 
