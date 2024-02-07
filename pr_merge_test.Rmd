@@ -6,4 +6,7 @@ library(tidyverse)
 ```{r}
 head(starwars)
 ```
+```{r}
+tail(starwars)
+```
 
