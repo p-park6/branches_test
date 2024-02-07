@@ -11,4 +11,7 @@ head(starwars)#ok i dont like it
 ```{r}
 
 ```
+```{r}
+tail(starwars)
+```
 
