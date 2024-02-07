@@ -11,7 +11,7 @@ library(tidyverse)
 ```
 
 ```{r}
-#just checking 
+#just checking weirdd. 
 ```
 
 
